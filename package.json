@@ -1,0 +1,9 @@
+{
+    "name": "servicio-autenticacion",
+    "version": "1.0.0",
+    "description": "API de registro e inicio de sesión",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "node src/server.js"
+    }
+}
